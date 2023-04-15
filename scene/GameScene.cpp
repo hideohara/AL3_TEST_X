@@ -4,7 +4,7 @@
 #include <cassert>
 
 
-// TEST1
+// STAGE1
 
 // コンストラクタ
 GameScene::GameScene() {}
