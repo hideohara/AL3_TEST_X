@@ -3,6 +3,9 @@
 #include "TextureManager.h"
 #include <cassert>
 
+
+// TEST1
+
 // コンストラクタ
 GameScene::GameScene() {}
 
